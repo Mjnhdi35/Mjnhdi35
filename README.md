@@ -130,19 +130,6 @@ Tôi là một Lập Trình Viên đam mê với **hơn 1 năm kinh nghiệm** x
 
 ## 📫 **Contact & Connect | Liên Hệ & Kết Nối**
 
-<div align="center">
-
-| Platform     | Link                                                                                                                                            | Description               |
-| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| **GitHub**   | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mjnhdi35)            | Main code repository      |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mjnhdi35) | Professional network      |
-| **Email**    | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjnhdi35@gmail.com)                 | Direct communication      |
-| **Discord**  | [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mjnhdi35)         | Community & collaboration |
-
-</div>
-
-### **Quick Contact | Liên Hệ Nhanh**
-
 - **📧 Email**: mjnhdi35@gmail.com
 
 - **🐙 GitHub**: [github.com/Mjnhdi35](https://github.com/Mjnhdi35)
