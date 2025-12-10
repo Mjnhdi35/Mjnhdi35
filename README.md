@@ -94,13 +94,21 @@ Tôi là một Lập Trình Viên đam mê với **hơn 1 năm kinh nghiệm** x
 
 ---
 
-## 📊 **GitHub Stats | Thống Kê GitHub**
+## 📊 GitHub Stats | Thống Kê GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mjnhdi35&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+<!-- GitHub Stats -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Mjnhdi35&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&cache_seconds=1800" 
+  alt="GitHub Stats" 
+/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mjnhdi35&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
+<!-- Top Languages -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mjnhdi35&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&cache_seconds=1800"
+  alt="Top Languages"
+/>
 
 </div>
 
