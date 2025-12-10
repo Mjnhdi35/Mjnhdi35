@@ -1,11 +1,11 @@
-# 🚀 **Developer | Lập Trình Viên**
+# 🚀 **Developer**
 
 > **"Đêm năm mơ thấy code, sáng dậy viết thành app!"** 🌙✨  
 > _"Dreaming of code at night, waking up to build apps!"_
 
 ---
 
-## 🌟 **About Me | Về Tôi**
+## 🌟 **About Me**
 
 I am a passionate Developer with **over 1 year of experience** in building web applications and learning modern technologies. My journey in software development is driven by the desire to create useful applications and continuously improve my skills.
 
@@ -13,7 +13,7 @@ Tôi là một Lập Trình Viên đam mê với **hơn 1 năm kinh nghiệm** x
 
 ---
 
-## 🎯 **Mission & Vision | Sứ Mệnh & Tầm Nhìn**
+## 🎯 **Mission & Vision**
 
 | **Mission**                                                                                                                                            | **Vision**                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -21,9 +21,9 @@ Tôi là một Lập Trình Viên đam mê với **hơn 1 năm kinh nghiệm** x
 
 ---
 
-## 🏗️ **Frameworks & Libraries | Framework & Thư Viện**
+## 🏗️ **Frameworks & Libraries**
 
-### **Backend Development | Phát Triển Backend**
+### **Backend Development**
 
 | Technology      | Icon                                                                                    | Description                    |
 | --------------- | --------------------------------------------------------------------------------------- | ------------------------------ |
@@ -37,7 +37,7 @@ Tôi là một Lập Trình Viên đam mê với **hơn 1 năm kinh nghiệm** x
 | **PHP**         | ![PHP](https://img.icons8.com/?size=100&id=XNQU0Xcm2I9s&format=png&color=000000)        | Server-side scripting language |
 | **Prisma**      | ![Prisma](https://img.icons8.com/?size=100&id=zJh5Gyrd6ZKu&format=png&color=000000)     | Database toolkit & ORM         |
 
-### **Frontend Development | Phát Triển Frontend**
+### **Frontend Development**
 
 | Technology       | Icon                                                                                      | Description                        |
 | ---------------- | ----------------------------------------------------------------------------------------- | ---------------------------------- |
@@ -53,13 +53,13 @@ Tôi là một Lập Trình Viên đam mê với **hơn 1 năm kinh nghiệm** x
 | **Tailwind CSS** | ![Tailwind CSS](https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000) | Utility-first CSS framework        |
 | **Bootstrap**    | ![Bootstrap](https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000)    | Popular CSS framework              |
 
-### **Desktop Development | Phát Triển Desktop**
+### **Desktop Development**
 
 | Technology   | Icon                                                                                  | Description                 |
 | ------------ | ------------------------------------------------------------------------------------- | --------------------------- |
 | **Electron** | ![Electron](https://img.icons8.com/?size=100&id=b1T0BJuTPGAz&format=png&color=000000) | Cross-platform desktop apps |
 
-## 🗄️ **Database Systems | Hệ Thống Cơ Sở Dữ Liệu**
+## 🗄️ **Database Systems**
 
 | Database       | Icon                                                                                 | Type  | Experience |
 | -------------- | ------------------------------------------------------------------------------------ | ----- | ---------- |
@@ -69,23 +69,23 @@ Tôi là một Lập Trình Viên đam mê với **hơn 1 năm kinh nghiệm** x
 
 ---
 
-## 🛠️ **Supporting Tools & Libraries | Công Cụ & Thư Viện Hỗ Trợ**
+## 🛠️ **Supporting Tools & Libraries**
 
-### **Version Control | Quản Lý Phiên Bản**
+### **Version Control**
 
 | Tool       | Icon                                                                                | Description                 |
 | ---------- | ----------------------------------------------------------------------------------- | --------------------------- |
 | **Git**    | ![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)           | Distributed version control |
 | **GitHub** | ![GitHub](https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000) | Code hosting platform       |
 
-### **Containerization & DevOps | Container & DevOps**
+### **Containerization & DevOps**
 
 | Tool       | Icon                                                                                | Description               |
 | ---------- | ----------------------------------------------------------------------------------- | ------------------------- |
 | **Docker** | ![Docker](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000) | Containerization platform |
 | **K8s**    | ![K8s](https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000)    | Container orchestration   |
 
-### **API & Testing | API & Kiểm Thử**
+### **API & Testing**
 
 | Tool        | Icon                                                                                 | Description                  |
 | ----------- | ------------------------------------------------------------------------------------ | ---------------------------- |
@@ -93,26 +93,7 @@ Tôi là một Lập Trình Viên đam mê với **hơn 1 năm kinh nghiệm** x
 | **Jest**    | ![Jest](https://img.icons8.com/?size=100&id=3u82blvEilbF&format=png&color=000000)    | JavaScript testing framework |
 
 ---
-
-## 📊 GitHub Stats | Thống Kê GitHub
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Mjnhdi35&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&cache_seconds=1800" 
-  alt="GitHub Stats" 
-/>
-
-<!-- Top Languages -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mjnhdi35&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&cache_seconds=1800"
-  alt="Top Languages"
-/>
-
-</div>
-
-## 💡 **Quotes & Motivation | Trích Dẫn & Động Lực**
+## 💡 **Quotes & Motivation**
 
 > **"Code is like humor. When you have to explain it, it's bad."** - _Cory House_  
 > _"Code giống như khiếu hài hước. Khi bạn phải giải thích nó, nó đã tệ rồi."_
@@ -125,7 +106,7 @@ Tôi là một Lập Trình Viên đam mê với **hơn 1 năm kinh nghiệm** x
 
 ---
 
-## 🎯 **Current Focus | Trọng Tâm Hiện Tại**
+## 🎯 **Current Focus**
 
 | Focus Area                          | Description                                              |
 | ----------------------------------- | -------------------------------------------------------- |
@@ -136,7 +117,7 @@ Tôi là một Lập Trình Viên đam mê với **hơn 1 năm kinh nghiệm** x
 
 ---
 
-## 📫 **Contact & Connect | Liên Hệ & Kết Nối**
+## 📫 **Contact & Connect**
 
 - **📧 Email**: mjnhdi35@gmail.com
 
@@ -144,7 +125,7 @@ Tôi là một Lập Trình Viên đam mê với **hơn 1 năm kinh nghiệm** x
 
 ---
 
-## 🌟 **Let's Build Something Amazing Together! | Hãy Cùng Xây Dựng Điều Tuyệt Vời!**
+## 🌟 **Let's Build Something Amazing Together!**
 
 I'm always open to collaboration on interesting projects, contributing to open source, or discussing new technologies. Feel free to reach out if you'd like to work together or just have a chat about development!
 
@@ -154,6 +135,6 @@ Tôi luôn sẵn sàng hợp tác trong các dự án thú vị, đóng góp cho
 
 <div align="center">
 
-**Thanks for visiting! | Cảm ơn bạn đã ghé thăm!** 🎉
+**Thanks for visiting!** 🎉
 
 </div>
